@@ -1,2 +1,2 @@
 # microbit_accel
-programme de test de l'accéléromètre du microbit
+## programme de test de l'accéléromètre du microbit
